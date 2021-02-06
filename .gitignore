@@ -6,5 +6,7 @@
 *.RData
 *.zip
 /doc
+/env
+/db
 homely*
 private*

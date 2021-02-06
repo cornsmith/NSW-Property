@@ -259,3 +259,4 @@ PSI <- PSI_B %>%
 remove(PSI_dat_dir, PSI_temp_dir, PSI_bin_dir, 
        PSI_extract_data_from_file, PSI_unzip,
        datafiles, datafile, PSI_processed)
+remove(PSI_B, PSI_Z)

@@ -1,6 +1,9 @@
 ## Dependencies
 tidyverse  
 rvest
+shiny
+shinydashboard
+
 
 ## Setup
 Create the following folders:  
